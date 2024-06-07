@@ -4,8 +4,8 @@
  */
 package Controlador;
 
-import Listos.Admin;
-import Listos.Empleado;
+import Vista.Admin;
+import Vista.Empleado;
 import com.itextpdf.io.font.constants.StandardFonts;
 import com.itextpdf.io.image.ImageDataFactory;
 import com.itextpdf.kernel.font.PdfFont;

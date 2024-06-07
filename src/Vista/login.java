@@ -1,5 +1,5 @@
 
-package Listos;
+package Vista;
 import Controlador.Metodos;
 import java.awt.Color;
 import javax.swing.JOptionPane;
@@ -77,7 +77,7 @@ public class login extends javax.swing.JFrame {
         jLabel2.setForeground(new java.awt.Color(255, 255, 255));
         jLabel2.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel2.setText("X");
-        jLabel2.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
+        jLabel2.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
         jLabel2.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
                 jLabel2MouseClicked(evt);
@@ -136,7 +136,7 @@ public class login extends javax.swing.JFrame {
 
         disable.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         disable.setIcon(new javax.swing.ImageIcon(getClass().getResource("/icon/icons8_invisible_20px_1.png"))); // NOI18N
-        disable.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
+        disable.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
         disable.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
                 disableMouseClicked(evt);
@@ -146,7 +146,7 @@ public class login extends javax.swing.JFrame {
 
         show.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         show.setIcon(new javax.swing.ImageIcon(getClass().getResource("/icon/icons8_eye_20px_1.png"))); // NOI18N
-        show.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
+        show.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
         show.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
                 showMouseClicked(evt);
@@ -157,7 +157,7 @@ public class login extends javax.swing.JFrame {
         btnLogin.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
         btnLogin.setForeground(new java.awt.Color(54, 33, 89));
         btnLogin.setText("LOGIN");
-        btnLogin.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
+        btnLogin.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
         btnLogin.setOpaque(true);
         btnLogin.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
