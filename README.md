@@ -236,10 +236,19 @@ o bien directamente desde la opción “Code” y después Download ZIP.
 
 ![image](https://github.com/Danielinh0/Sistema-Gestion-de-Gimnasio-Sanders-Gym-ITO-TAP/assets/168355421/d60bb060-f598-4c6f-8034-10b4e4d4e8c7)
 
-Al igual que las librerias correspondientes las cuales puedes descargar en este link.
+Al igual que las librerias correspondientes las cuales puedes descargar en este link directamente.
 
 https://drive.google.com/drive/folders/1UY92ffaZnVUB86nuV167org4QWpWMY0Y?usp=sharing.
 
+O si lo prefieres desde la pagina oficial de los desarrolladores: 
+
+JfreeChart https://sourceforge.net/projects/jfreechart/
+
+iText https://itextpdf.com/products/itext-core
+
+MySQL connector 8.4.0 https://dev.mysql.com/downloads/connector/j/
+
+Commons Email https://commons.apache.org/email/download_email.cgi
 
 Una vez descargados el repositorio y sus debidas librerías tendríamos algo similar a esto:
 
