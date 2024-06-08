@@ -215,18 +215,15 @@ Esta tabla proporciona una visión clara de cómo los métodos y los componentes
 | `promedio_edad()` | Calcula y muestra la edad promedio de los clientes activos en una etiqueta (`lblPromedio`). | **Etiqueta**: `lblPromedio` <br> **Botón**: "Actualizar Promedio Edad" |
 | `seleccionarSucursales()` | Llena un `JComboBox` con los nombres de todas las sucursales que no han sido cerradas. | **ComboBox**: `cboSucursales` |
 
+# Instalación
 
-
-## Adjunto tabla utlizada en MySQL para este proyecto
+## Para el proyecto se ocupo el siguiente schema de MySQL WorkBench
 
 **Link De La Base De Datos**
 https://drive.google.com/drive/folders/1zjAfUqpT_eQNNIVgnnhofl81WGQQpRUw?usp=sharing 
 
 
-
-## Instalación
-
-### Descarga del repositorio y sus librerias
+## Descarga del repositorio y sus librerias
 
 Para comenzar la instalación necesitas del repositorio el cual puedes descargarlo en este link.
 
