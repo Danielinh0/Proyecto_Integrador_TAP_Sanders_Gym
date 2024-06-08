@@ -28,7 +28,7 @@
 - Swing: Para la interfaz gráfica de usuario (GUI).
 - MySQL: Como base de datos para almacenar toda la información del gimnasio.
 
-
+# Paquete "Modelo"
 ## Clases Utilizadas
 ### Clase Conexión
 La clase Conexión tiene como objetivo establecer una conexión con una base de datos MySQL y sus principales funciones y características:
@@ -37,7 +37,8 @@ La clase Conexión tiene como objetivo establecer una conexión con una base de 
 |----------------------------|-----------------------------------------------------------------------------------------------------------------|
 | `conectar()`               | Intenta establecer una conexión con la base de datos utilizando los valores de `URL`, `USER` y `CLAVE`. Si la conexión es exitosa, se asigna al atributo `con`. Si ocurre un error, se imprime un mensaje con los detalles del error. Finalmente, el método devuelve el objeto `Connection`. |
 
-
+# Paquete "Controlador"
+## Clases Utilizadas
 ### Clase métodos
 En esta clase tenemos todos los métodos ocupados para el funcionamiento correcto del programa, a continuación se hará el listado de los métodos más importantes.
 
@@ -77,6 +78,9 @@ En esta clase tenemos todos los métodos ocupados para el funcionamiento correct
 | `Editar_SucursalesBD(String nombreAntiguo, String direccion_A, java.sql.Date fecha_A, String nombre_N, String direccion_N, java.sql.Date Fecha_N)` | Modifica los registros de las sucursales en la base de datos ocupando "SET SQL_SAFE_UPDATES = 0" y "SET SQL_SAFE_UPDATES = 1". Setea los datos nuevos donde haya registros de los datos viejos. |
 | `ActualizarFechaSucursal(String nombreS)` | Actualiza las fechas de apertura y cierre de una sucursal en base al nombre. Si la fecha de cierre no es nula, se actualiza a nula y la fecha de apertura a la fecha actual; en caso contrario, la fecha de baja se actualiza a la fecha actual. |
 | `eliminarSucursales(String nombreS)` | Elimina todos los registros asociados a una sucursal, incluyendo membresías, clientes y empleados. Sigue el orden: Gimnasio – Membresía – Cliente – Persona y Gimnasio – Asalariado | Admin – Empleado – Persona. |
+
+# Paquete "Vista"
+## Clases Utilizadas
 
 ### JFrame Login
 
