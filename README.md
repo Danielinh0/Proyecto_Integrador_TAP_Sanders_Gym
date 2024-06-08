@@ -76,7 +76,7 @@ En esta clase tenemos todos los métodos ocupados para el funcionamiento correct
 | `eliminarMembresias(String nombreMembresia)` | Elimina todos los registros de las membresías y sus clientes asociados. Borra en orden todos los registros de la base de datos: Gimnasio – Membresía – Cliente – Persona. |
 | `Editar_SucursalesBD(String nombreAntiguo, String direccion_A, java.sql.Date fecha_A, String nombre_N, String direccion_N, java.sql.Date Fecha_N)` | Modifica los registros de las sucursales en la base de datos ocupando "SET SQL_SAFE_UPDATES = 0" y "SET SQL_SAFE_UPDATES = 1". Setea los datos nuevos donde haya registros de los datos viejos. |
 | `ActualizarFechaSucursal(String nombreS)` | Actualiza las fechas de apertura y cierre de una sucursal en base al nombre. Si la fecha de cierre no es nula, se actualiza a nula y la fecha de apertura a la fecha actual; en caso contrario, la fecha de baja se actualiza a la fecha actual. |
-| `public void eliminarSucursales(String nombreS)` | Elimina todos los registros asociados a una sucursal, incluyendo membresías, clientes y empleados. Sigue el orden: Gimnasio – Membresía – Cliente – Persona y Gimnasio – Asalariado | Admin – Empleado – Persona. |
+| `eliminarSucursales(String nombreS)` | Elimina todos los registros asociados a una sucursal, incluyendo membresías, clientes y empleados. Sigue el orden: Gimnasio – Membresía – Cliente – Persona y Gimnasio – Asalariado | Admin – Empleado – Persona. |
 
 ### JFrame Login
 
