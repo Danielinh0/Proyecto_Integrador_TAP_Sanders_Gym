@@ -98,6 +98,7 @@ Aqui se muestra una tabla detallada que incluye la descripción de los métodos 
 | Botón/Elemento               | Función                                                      | Código Asociado                                                                                       |
 |------------------------------|--------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
 | `TablaClientes`              | Seleccionar cliente y mostrar sus datos en los campos         | `fila = TablaClientes.getSelectedRow(); int id = Integer.parseInt((String) TablaClientes.getValueAt(fila, 0)); ` |
+| `TablaMembresias`            | Muestra el registro de las membresias creadas en la BD con sus atributos y permite seleccionar clientes        | `fila = TablaClientes.getSelectedRow(); int id = Integer.parseInt((String) TablaClientes.getValueAt(fila, 0)); ` |
 | `btnEditar`                  | Validar y actualizar datos del cliente seleccionado           | `String Nombre = txtNombre.getText().trim(); `             |
 | `btnRegistro`                | Registrar un nuevo cliente con validaciones y asociaciones    | `String Nombre = txtNombre.getText().trim(); `                 |
 | `btnCrearYEnviar`                 | Crear PDF con los datos del cliente seleccionado              | `Clases.Metodos objetoRegistro = new Clases.Metodos(); fila = TablaClientes.getSelectedRow(); int id = Integer.parseInt((String) TablaClientes.getValueAt(fila, 0)); ...` (creación de PDF) |
