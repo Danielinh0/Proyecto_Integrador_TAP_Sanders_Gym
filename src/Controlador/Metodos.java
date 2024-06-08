@@ -773,7 +773,7 @@ public class Metodos {
                 String nombrePDF = "Registro de " + nombre + " " + a_paterno + " " + a_materno + ".pdf";
 
                 // Ruta de la imagen (asegúrate de que sea correcta)
-                Image logoE = new Image(ImageDataFactory.create(getClass().getResource("/Imagenes/logo.png")));
+                Image logoE = new Image(ImageDataFactory.create(getClass().getResource("/icon/logoe.png")));
 
                 logoE.scaleToFit(250, 250);
 
@@ -905,7 +905,7 @@ public class Metodos {
                 String nombrePDF = "Registro de " + nombre + " " + a_paterno + " " + a_materno + ".pdf";
 
                 // Ruta de la imagen (asegúrate de que sea correcta)
-                Image logoE = new Image(ImageDataFactory.create(getClass().getResource("/Imagenes/logo.png")));
+                Image logoE = new Image(ImageDataFactory.create(getClass().getResource("/icon/logoe.png")));
 
                 logoE.scaleToFit(250, 250);
 
@@ -1044,7 +1044,7 @@ public class Metodos {
                 String nombrePDF = "Registro de " + nombre + " " + a_paterno + " " + a_materno + ".pdf";
 
                 // Ruta de la imagen (asegúrate de que sea correcta)
-                Image logoE = new Image(ImageDataFactory.create(getClass().getResource("/Imagenes/logo.png")));
+                Image logoE = new Image(ImageDataFactory.create(getClass().getResource("/icon/logoe.png")));
 
                 logoE.scaleToFit(250, 250);
 
@@ -1180,7 +1180,7 @@ public class Metodos {
                 String nombrePDF = "Registro de " + nombre + " " + a_paterno + " " + a_materno + ".pdf";
 
                 // Ruta de la imagen (asegúrate de que sea correcta)
-                Image logoE = new Image(ImageDataFactory.create(getClass().getResource("/Imagenes/logo.png")));
+                Image logoE = new Image(ImageDataFactory.create(getClass().getResource("/icon/logoe.png")));
 
                 logoE.scaleToFit(250, 250);
 
@@ -1313,7 +1313,7 @@ public class Metodos {
                 String nombrePDF = "Registro de " + nombre + " " + a_paterno + " " + a_materno + ".pdf";
 
                 // Ruta de la imagen (asegúrate de que sea correcta)
-                Image logoE = new Image(ImageDataFactory.create(getClass().getResource("/Imagenes/logo.png")));
+                Image logoE = new Image(ImageDataFactory.create(getClass().getResource("/icon/logoe.png")));
 
                 logoE.scaleToFit(250, 250);
 
@@ -1446,7 +1446,7 @@ public class Metodos {
                 String nombrePDF = "Registro de " + nombre + " " + a_paterno + " " + a_materno + ".pdf";
 
                 // Ruta de la imagen (asegúrate de que sea correcta)
-                Image logoE = new Image(ImageDataFactory.create(getClass().getResource("/Imagenes/logo.png")));
+                Image logoE = new Image(ImageDataFactory.create(getClass().getResource("/icon/logoe.png")));
 
                 logoE.scaleToFit(250, 250);
 

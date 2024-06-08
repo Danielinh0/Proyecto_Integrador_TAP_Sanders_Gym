@@ -968,7 +968,7 @@ public class Admin extends javax.swing.JFrame {
         btnRegistro1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/icon/registro (1).png"))); // NOI18N
         btnRegistro1.setText(" Registrar");
         btnRegistro1.setToolTipText("");
-        btnRegistro1.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+        btnRegistro1.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         btnRegistro1.setOpaque(true);
         btnRegistro1.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
@@ -1031,7 +1031,7 @@ public class Admin extends javax.swing.JFrame {
         btnEditarA.setIcon(new javax.swing.ImageIcon(getClass().getResource("/icon/editar.png"))); // NOI18N
         btnEditarA.setText(" Editar");
         btnEditarA.setToolTipText("");
-        btnEditarA.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+        btnEditarA.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         btnEditarA.setOpaque(true);
         btnEditarA.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
@@ -1051,7 +1051,7 @@ public class Admin extends javax.swing.JFrame {
         btnEditarA1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/icon/PDFF.png"))); // NOI18N
         btnEditarA1.setText(" Crear PDF");
         btnEditarA1.setToolTipText("");
-        btnEditarA1.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+        btnEditarA1.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         btnEditarA1.setOpaque(true);
         btnEditarA1.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
@@ -1311,7 +1311,7 @@ public class Admin extends javax.swing.JFrame {
         btnRegistroE.setIcon(new javax.swing.ImageIcon(getClass().getResource("/icon/registro (1).png"))); // NOI18N
         btnRegistroE.setText(" Registrar");
         btnRegistroE.setToolTipText("");
-        btnRegistroE.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+        btnRegistroE.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         btnRegistroE.setOpaque(true);
         btnRegistroE.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
@@ -1326,7 +1326,7 @@ public class Admin extends javax.swing.JFrame {
         btnEditarE.setIcon(new javax.swing.ImageIcon(getClass().getResource("/icon/editar.png"))); // NOI18N
         btnEditarE.setText(" Editar");
         btnEditarE.setToolTipText("");
-        btnEditarE.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+        btnEditarE.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         btnEditarE.setOpaque(true);
         btnEditarE.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
@@ -1392,7 +1392,7 @@ public class Admin extends javax.swing.JFrame {
         btnEnviar_EM.setIcon(new javax.swing.ImageIcon(getClass().getResource("/icon/PDFF.png"))); // NOI18N
         btnEnviar_EM.setText("Crear PDF");
         btnEnviar_EM.setToolTipText("");
-        btnEnviar_EM.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+        btnEnviar_EM.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         btnEnviar_EM.setOpaque(true);
         btnEnviar_EM.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
@@ -1702,7 +1702,7 @@ public class Admin extends javax.swing.JFrame {
         btnEditar.setIcon(new javax.swing.ImageIcon(getClass().getResource("/icon/editar.png"))); // NOI18N
         btnEditar.setText("  Editar");
         btnEditar.setToolTipText("");
-        btnEditar.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+        btnEditar.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         btnEditar.setOpaque(true);
         btnEditar.addMouseMotionListener(new java.awt.event.MouseMotionAdapter() {
             public void mouseMoved(java.awt.event.MouseEvent evt) {
@@ -1729,7 +1729,7 @@ public class Admin extends javax.swing.JFrame {
         btnRegistro.setIcon(new javax.swing.ImageIcon(getClass().getResource("/icon/registro (1).png"))); // NOI18N
         btnRegistro.setText("  Nuevo Registro");
         btnRegistro.setToolTipText("");
-        btnRegistro.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+        btnRegistro.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         btnRegistro.setOpaque(true);
         btnRegistro.addMouseMotionListener(new java.awt.event.MouseMotionAdapter() {
             public void mouseMoved(java.awt.event.MouseEvent evt) {
@@ -1774,7 +1774,7 @@ public class Admin extends javax.swing.JFrame {
         btnEditar1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/icon/enviar-datos.png"))); // NOI18N
         btnEditar1.setText("Crear y Enviar PDF");
         btnEditar1.setToolTipText("");
-        btnEditar1.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+        btnEditar1.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         btnEditar1.setOpaque(true);
         btnEditar1.addMouseMotionListener(new java.awt.event.MouseMotionAdapter() {
             public void mouseMoved(java.awt.event.MouseEvent evt) {
@@ -1901,7 +1901,7 @@ public class Admin extends javax.swing.JFrame {
         btnRegistroM.setIcon(new javax.swing.ImageIcon(getClass().getResource("/icon/REm.png"))); // NOI18N
         btnRegistroM.setText(" Registrar");
         btnRegistroM.setToolTipText("");
-        btnRegistroM.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+        btnRegistroM.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         btnRegistroM.setOpaque(true);
         btnRegistroM.addMouseMotionListener(new java.awt.event.MouseMotionAdapter() {
             public void mouseMoved(java.awt.event.MouseEvent evt) {
@@ -1978,7 +1978,7 @@ public class Admin extends javax.swing.JFrame {
         btnEliminar.setIcon(new javax.swing.ImageIcon(getClass().getResource("/icon/eliminar.png"))); // NOI18N
         btnEliminar.setText("Eliminar");
         btnEliminar.setToolTipText("");
-        btnEliminar.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+        btnEliminar.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         btnEliminar.setOpaque(true);
         btnEliminar.addMouseMotionListener(new java.awt.event.MouseMotionAdapter() {
             public void mouseMoved(java.awt.event.MouseEvent evt) {
@@ -2002,7 +2002,7 @@ public class Admin extends javax.swing.JFrame {
         btnEditarM.setIcon(new javax.swing.ImageIcon(getClass().getResource("/icon/editar.png"))); // NOI18N
         btnEditarM.setText(" Modificar / Migrar");
         btnEditarM.setToolTipText("");
-        btnEditarM.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+        btnEditarM.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         btnEditarM.setOpaque(true);
         btnEditarM.addMouseMotionListener(new java.awt.event.MouseMotionAdapter() {
             public void mouseMoved(java.awt.event.MouseEvent evt) {
@@ -2163,7 +2163,7 @@ public class Admin extends javax.swing.JFrame {
         btnRegistroG.setIcon(new javax.swing.ImageIcon(getClass().getResource("/icon/edificio-de-oficinas.png"))); // NOI18N
         btnRegistroG.setText(" Registrar");
         btnRegistroG.setToolTipText("");
-        btnRegistroG.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+        btnRegistroG.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         btnRegistroG.setOpaque(true);
         btnRegistroG.addMouseMotionListener(new java.awt.event.MouseMotionAdapter() {
             public void mouseMoved(java.awt.event.MouseEvent evt) {
@@ -2187,7 +2187,7 @@ public class Admin extends javax.swing.JFrame {
         btnEditarG.setIcon(new javax.swing.ImageIcon(getClass().getResource("/icon/migracion.png"))); // NOI18N
         btnEditarG.setText(" Modificar/ Migrar");
         btnEditarG.setToolTipText("");
-        btnEditarG.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+        btnEditarG.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         btnEditarG.setOpaque(true);
         btnEditarG.addMouseMotionListener(new java.awt.event.MouseMotionAdapter() {
             public void mouseMoved(java.awt.event.MouseEvent evt) {
@@ -2211,7 +2211,7 @@ public class Admin extends javax.swing.JFrame {
         btnEliminarG1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/icon/eliminar.png"))); // NOI18N
         btnEliminarG1.setText("Eliminar");
         btnEliminarG1.setToolTipText("");
-        btnEliminarG1.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
+        btnEliminarG1.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         btnEliminarG1.setOpaque(true);
         btnEliminarG1.addMouseMotionListener(new java.awt.event.MouseMotionAdapter() {
             public void mouseMoved(java.awt.event.MouseEvent evt) {
