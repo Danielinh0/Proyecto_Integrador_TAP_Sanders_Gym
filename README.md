@@ -28,6 +28,8 @@
 - Swing: Para la interfaz gráfica de usuario (GUI).
 - MySQL: Como base de datos para almacenar toda la información del gimnasio.
 
+### EL proyecto ocupa el modelo MVC, por lo cual este esta segmentando en paquetes con el mismo nombre, por lo que se explicara cada uno de ellos en los proximos apartados.
+
 # Paquete "Modelo"
 ## Clases Utilizadas
 ### Clase Conexión
