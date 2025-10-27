@@ -583,7 +583,7 @@ Luis Gael Fernadez Crisanto
 
 # Agradecimientos
 - A mi gato por acompañarme durante toda esta travesia.
-- Y a mis ganas de seguir adelante
+- Y mi linda novia por acompañarme tanto físicamente como mentalmente en este trabajo, la amo y quiero que se refleje ese sentimiento en el presente trabajo.
   
 
 
