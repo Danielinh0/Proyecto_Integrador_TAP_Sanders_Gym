@@ -575,10 +575,8 @@ Los paneles que nos hacen volver al inicio de sesión y/o salir del programa res
 # Autores
 
 Daniel Eduardo Garcia Salvador    
-@danielinh_0
 
 Luis Gael Fernadez Crisanto       
-@gaelf_04
 
 
 # Agradecimientos
